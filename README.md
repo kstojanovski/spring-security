@@ -4,7 +4,7 @@ This repositry contains knowledge information, links to articles and tutorial vi
 ## Different Methods of Spring Security
 * [What is Spring Security really all about? Java Brains Brain Bytes - Koushik Kothagal](https://www.youtube.com/watch?v=sm-8qfMWEV8&list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
 
-In the playlist you can fine:
+In the playlist you can find:
 * Basics about Authentication and Authorizaton
 * Security with JWT
 * Security with OAuth
@@ -17,3 +17,12 @@ By Dan Vega:
 * [Spring Security without the WebSecurityConfigurerAdapter](https://www.youtube.com/watch?v=s4X4SJv2RrU&t=0s)
 ## Spring Security with Keycloak
 [Spring Security OAuth2 Tutorial with Keycloak - Full Course - Sai Upadhyayula](https://www.youtube.com/watch?v=t9O99l4gjAc)
+
+In this video you can find:
+* OAuth 2.0 and OpenID Connect (OIDC)
+* Authorization Code Flow 
+* PKCE Authorization Code Flow
+* Client Credentials Flow
+* Refresh Token Flow
+* Password Grant Flow
+* Single Sign-On
